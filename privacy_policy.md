@@ -50,7 +50,7 @@ Delete Your Data: Players can request account deletion, which will erase their U
 Ad Preferences: Users can adjust AdMob settings to control personalized ad experience.
 
 How to Request Data Deletion
-To remove your data, email orderdontspell@gmail.com with your UID and deletion request. Processing may take up to 7 business days.
+To remove your data, email orderdontspell@gmail.com with your deletion request. Processing may take up to 7 business days.
 
 5. Changes to This Policy
 We may update this Privacy Policy to reflect changes in services or regulations. Updates will be posted publicly.
